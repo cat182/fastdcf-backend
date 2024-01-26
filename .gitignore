@@ -1,0 +1,4 @@
+/node_modules
+/companyfacts/*
+ticker.txt
+package-lock.json
